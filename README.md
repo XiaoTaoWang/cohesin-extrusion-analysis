@@ -35,4 +35,4 @@ Xiaotao Wang
 If you use this code, please cite:
 
 Wang, P., Meng, L., Jiang, L., Yang, L., Huang, J., Yu, T., Chai, H., Kim, M., Wang, X., Ruan, Y. 
-*Cohesin extrudes DNA unidirectionally through two modes of action in human cells.*
+*Cohesin extrudes DNA unidirectionally through two modes of action in human cells.* 2026

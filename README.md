@@ -1,4 +1,4 @@
-# Scripts for the analysis of cohesin extrusion dynamics in human cells
+# Cohesin loop extrusion analysis
 
 This repository contains the scripts used to analyze and generate the major figures for the manuscript:
 
@@ -18,12 +18,21 @@ The repository is organized by analysis stage:
   Aggregated analyses centered on loop anchors and cohesin loading sites, including normalization and pileup of contact maps.
 
 - **04_simulation/**  
-  Scripts for downstream analysis of simulated contact maps. For simulation framework, please follow this
-  link: 10.5281/zenodo.19093829
+  Scripts for downstream analysis of simulated contact maps.  
+  The simulation framework is available at: https://doi.org/10.5281/zenodo.19093829
 
 - **05_visualization/**  
   Scripts for generating figures, including contact map visualization and multi-track genomic plots.
 
-## Code contributors
+## Contributors
 
-Yang li, Xiaotao Wang, Linghan Jiang
+Li Yang  
+Linghan Jiang  
+Xiaotao Wang  
+
+## Citation
+
+If you use this code, please cite:
+
+Wang, P., Meng, L., Jiang, L., Yang, L., Huang, J., Yu, T., Chai, H., Kim, M., Wang, X., Ruan, Y. 
+*Cohesin extrudes DNA unidirectionally through two modes of action in human cells.*

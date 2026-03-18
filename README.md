@@ -26,7 +26,7 @@ The repository is organized by analysis stage:
 
 ## Contributors
 
-Li Yang  
+Yang Li
 Linghan Jiang  
 Xiaotao Wang  
 

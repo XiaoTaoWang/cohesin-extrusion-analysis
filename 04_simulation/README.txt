@@ -4,6 +4,9 @@
 	loop_intensity.with_time.sh
 	loop_intensity.comparison.py
 
+2. SCC between simulated contact maps and real Micro-C contact maps
+	pool-scc.py
+
 2. Differencence 
 	eg_diff.sh
 

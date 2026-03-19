@@ -2,7 +2,7 @@
 
 This repository contains the scripts used to analyze and generate the major figures for the manuscript:
 
-**“Cohesin extrudes DNA unidirectionally through two modes of action in human cells.”**
+**“Cohesin extrudes DNA loop unidirectionally through two modes of mechanisms in human cells”**
 
 ## Repository structure
 
@@ -35,4 +35,4 @@ Xiaotao Wang
 If you use this code, please cite:
 
 Wang, P., Meng, L., Jiang, L., Yang, L., Huang, J., Yu, T., Chai, H., Kim, M., Wang, X., Ruan, Y. 
-*Cohesin extrudes DNA unidirectionally through two modes of action in human cells.* 2026
+*Cohesin extrudes DNA loop unidirectionally through two modes of mechanisms in human cells.* 2026
